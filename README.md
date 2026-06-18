@@ -172,9 +172,7 @@ python -m pytest
 
 ## Assessment Submission Details
 
-*Fill in your final deployment endpoints below prior to submission:*
-
-- **GitHub Repository Link (Frontend + Backend)**: `*`
-- **Backend Docker Hub Image Link**: `*`
+- **GitHub Repository Link (Frontend + Backend)**: [https://github.com/Mohd-Ayan26/Ethara-IMS.git](https://github.com/Mohd-Ayan26/Ethara-IMS.git)
+- **Backend Docker Hub Image Link**: [https://hub.docker.com/r/ayan2004/ethara-backend](https://hub.docker.com/r/ayan2004/ethara-backend)
 - **Frontend Hosted URL**: `*`
 - **Backend API Hosted URL**: `*`
